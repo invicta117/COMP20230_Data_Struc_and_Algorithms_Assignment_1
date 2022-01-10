@@ -1,0 +1,3 @@
+# COMP20230: Data Structures & Algorithms Assignment 1
+
+In this project, I explored iterative and recursive techniques to compute the factorial of a number. Tail recursion and non-tail recursion are implemented with runtime and memory usage of each of these techniques explored. Linear search and iterative binary search are also implemented with runtimes and memory usage explored. Big-O for each of these algorithms is examined and discussed. Curve fitting algorithms are also used to demonstrate how each algorithm matches its Big-O runtime.
